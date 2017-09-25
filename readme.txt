@@ -4,3 +4,4 @@ Git is free software.
 add
 add2
 add3
+AND LICENSE
